@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "balik-lagi",
+  "compatibility_date": "2026-02-01",
+  "pages_build_output_dir": "./dist",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "balik-lagi-production",
+      "database_id": "7e7f9429-9e84-48ca-9813-276bf37ff6be"
+    }
+  ]
+}
