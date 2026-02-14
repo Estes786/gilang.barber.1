@@ -1,17 +1,18 @@
-# 🎯 BALIK.LAGI - Platform Booking Barbershop
+# ✂️ GILANG BARBER - Platform Booking Barbershop Premium
 
-**Version**: 3.0.0 (ULTRA-SOPHISTICATED UI/UX) ✨  
+**Version**: 4.0.0 (CLASSIC BARBERSHOP REDESIGN) ✨  
 **Status**: ✅ Production Ready & Fully Functional  
-**Tech Stack**: Hono + Cloudflare Pages + D1 Database + Ultra-Sophisticated UI  
-**Live URL**: https://431569aa.balik-lagi-b9o.pages.dev  
-**GitHub**: https://github.com/Estes786/balik.lagi  
-**Last Updated**: 1 February 2026 (Phase 2 UI/UX Upgrade Complete)
+**Tech Stack**: Hono + Cloudflare Pages + D1 Database + Vintage UI/UX  
+**Production URL**: https://85d3ead2.balik-lagi-b9o.pages.dev  
+**Development URL**: https://3000-i95o3o09v9rxukdyyfozn-2e77fc33.sandbox.novita.ai  
+**GitHub**: https://github.com/Estes786/gilang.barber.1  
+**Last Updated**: 14 February 2026 (Classic Barbershop Redesign Complete)
 
 ---
 
 ## 📊 PROJECT OVERVIEW
 
-**BALIK.LAGI** adalah platform booking barbershop yang powerful dengan sistem management lengkap untuk admin, capster, dan customer.
+**GILANG BARBER** adalah platform booking barbershop premium dengan desain klasik dan elegan, menggabungkan tradisi dengan teknologi modern untuk memberikan pengalaman booking yang sophisticated.
 
 ### Main Features
 - ✅ **3-Role Authentication System** (Admin, Capster, Customer)
@@ -21,46 +22,50 @@
 - ✅ **Customer Analytics** dan loyalty tracking
 - ✅ **Transaction History** dan revenue tracking
 - ✅ **Access Key System** untuk controlled registration
-- ✨ **Ultra-Sophisticated UI/UX** - Inspired by Fresha.com
-- ✨ **Glassmorphism Design** - Modern backdrop blur effects
-- ✨ **Animated Inputs** - Smooth label transitions
-- ✨ **Gradient Effects** - Premium visual polish
-- ✨ **Enterprise-Grade Dashboards** (Customer, Capster, Admin)
-- ✨ **Bento-Style Dark Mode Design** - Premium UI/UX
-- ✨ **Real-time Analytics** dengan Chart.js
-- ✨ **Zod Validation** untuk enhanced security
+- ✨ **Classic Barbershop UI/UX** - Vintage elegance with modern touch
+- ✨ **Gold & Brown Color Scheme** - Professional barbershop aesthetics
+- ✨ **Playfair Display Typography** - Classic serif fonts
+- ✨ **Vintage Glassmorphism** - Sophisticated backdrop blur effects
+- ✨ **Professional Trust Badges** - Enterprise-grade security indicators
 
 ---
 
-## 🎨 UI/UX UPGRADE PHASE 2 (NEW!)
+## 🎨 UI/UX REDESIGN PHASE 3 (LATEST!)
 
-### What's New
-1. **Landing Page Footer**
-   - Multi-column sophisticated layout
-   - Social media integration
-   - Language selector
-   - Legal links and trust badges
+### What's New in Version 4.0.0
+1. **Brand Redesign: GILANG BARBER**
+   - Renamed from BALIK.LAGI to GILANG BARBER
+   - Classic barbershop branding with premium positioning
+   - Gold (#D4AF37) and brown color palette
+   - Vintage logo with scissors icon in circular gold badge
 
-2. **Login Page**
-   - Glassmorphism card design
-   - Animated input labels
-   - Remember me & forgot password
-   - Social login options
-   - Loading states dengan smooth transitions
+2. **Homepage Redesign**
+   - Classic barbershop hero section with vintage pattern background
+   - Large serif typography with Playfair Display font
+   - Trust indicators: 500+ loyal customers, 10+ professional capsters, 5 years experience
+   - Gold gradient CTA buttons with smooth hover effects
+   - Professional tagline: "Dimana Tradisi Bertemu dengan Inovasi"
 
-3. **Register Page**
-   - Two-column responsive layout
-   - Modern form design with icons
-   - Terms & conditions checkbox
-   - Success/error feedback
-   - Enterprise security badge
+3. **Login Page Upgrade**
+   - Vintage glassmorphism card with gold border
+   - Circular gold badge logo with scissors icon
+   - Animated input labels with gold focus state
+   - Classic "MASUK" button in gold gradient
+   - Enhanced trust badge at bottom
+
+4. **Register Page Enhancement**
+   - Professional two-column layout maintained
+   - All inputs styled with gold focus rings
+   - Gold accent icons throughout the form
+   - Updated to GILANG BARBER branding
+   - Vintage border styling on main card
 
 ### Design Principles
-- **Inspired by Fresha.com** - Modern booking platform aesthetics
-- **Glassmorphism** - Backdrop blur and transparency effects
-- **Micro-interactions** - Smooth hover and focus animations
-- **Dark Mode First** - Professional dark theme with amber accents
-- **Enterprise Grade** - Trust indicators and security badges
+- **Classic Barbershop Aesthetic** - Timeless elegance meets modern functionality
+- **Vintage Color Palette** - Gold (#D4AF37), Darkgold (#B8860B), Brown accents
+- **Premium Typography** - Playfair Display for headings, Inter for body text
+- **Professional Trust** - Enterprise security badges and trust indicators
+- **Sophisticated Glassmorphism** - Elevated backdrop blur effects
 
 ---
 
@@ -79,11 +84,12 @@
 - **Axios** - HTTP client
 - **Chart.js** ✨ - Data visualization for dashboards
 
-### Design System ✨ NEW
-- **Bento Grid Layout** - Modern card-based UI
-- **Dark Mode** - Sleek dark theme with amber accents
-- **Gradient Effects** - Premium visual polish
-- **Micro-interactions** - Smooth animations
+### Design System ✨ REDESIGNED
+- **Classic Vintage Layout** - Barbershop-inspired card design
+- **Gold & Brown Theme** - Professional barbershop color palette
+- **Serif Typography** - Playfair Display for premium feel
+- **Vintage Patterns** - Diagonal striped backgrounds for authenticity
+- **Gold Gradients** - Premium visual polish and accents
 
 ### Authentication
 - **Session-based auth** with HTTP-only cookies
@@ -282,13 +288,18 @@ npm test                 # Test local server
 
 ## 🌐 DEPLOYMENT TO CLOUDFLARE PAGES
 
-### Production URL
-**Live Application**: https://431569aa.balik-lagi-b9o.pages.dev
+### Production URLs
+**Latest Deployment**: https://85d3ead2.balik-lagi-b9o.pages.dev  
+**Project Name**: balik-lagi  
+**Branch**: main
+
+### Development URL
+**Sandbox**: https://3000-i95o3o09v9rxukdyyfozn-2e77fc33.sandbox.novita.ai
 
 ### Dashboards
-- **Customer Dashboard**: https://431569aa.balik-lagi-b9o.pages.dev/dashboard/customer
-- **Capster Dashboard**: https://431569aa.balik-lagi-b9o.pages.dev/dashboard/capster
-- **Admin Dashboard**: https://431569aa.balik-lagi-b9o.pages.dev/dashboard/admin
+- **Customer Dashboard**: https://85d3ead2.balik-lagi-b9o.pages.dev/dashboard/customer
+- **Capster Dashboard**: https://85d3ead2.balik-lagi-b9o.pages.dev/dashboard/capster
+- **Admin Dashboard**: https://85d3ead2.balik-lagi-b9o.pages.dev/dashboard/admin
 
 ### Setup Cloudflare API Key
 ```bash
@@ -479,12 +490,13 @@ pm2 start ecosystem.config.cjs
 
 ## 📞 SUPPORT
 
-**Project**: BALIK.LAGI  
+**Project**: GILANG BARBER  
 **Status**: ✅ Production Ready  
-**Contact**: [GitHub Repository](https://github.com/Estes786/balik.lagi)
+**GitHub**: https://github.com/Estes786/gilang.barber.1  
+**Production**: https://85d3ead2.balik-lagi-b9o.pages.dev
 
-**Documentation Last Updated**: 2026-02-01
+**Documentation Last Updated**: 2026-02-14
 
 ---
 
-**🚀 BALIK.LAGI - Sekali Cocok, Pengen Balik Lagi**
+**✂️ GILANG BARBER - Premium Barbershop Experience**
